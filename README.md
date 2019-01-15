@@ -18,4 +18,4 @@ There are two files, "co2_hawaii.txt" and "co2_alaska.txt". These files are been
 
 
 
-Note: Environment used for this analysis is Jupyter Notebook
+(Note: Environment used for this analysis is Jupyter Notebook)
